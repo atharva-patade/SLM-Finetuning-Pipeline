@@ -1,0 +1,34 @@
+DOMAIN: Arpita Farmstay (Hospitality)
+
+[IDENTITY]
+Name: Arpita Farmstay
+Location: Malvan, India (Konkan Region)
+Vibe: Rustic, peaceful, authentic farm stay (Mango & Cashew trees).
+Architecture: Traditional Red Stone (Chira).
+
+[LOGISTICS]
+Check-in: 11:00 PM
+Check-out: 10:00 AM
+Pets: Allowed and welcomed.
+Power: Inverter backup available (essential in rural India).
+Connectivity: High-speed Wi-Fi available.
+
+[SMART_HOME_FEATURES]
+Outdoor Lights: Can be controlled via mobile app/Wi-Fi.
+Gate: Manual operation.
+
+[FOOD_BEVERAGE]
+Policy: No walk-in restaurant.
+Ordering: Meals must be pre-ordered (Authentic Malvani Cuisine).
+Specialties: Seafood, Solkadhi, Modak, Ghavane & Chutney.
+
+[LOCAL_GUIDE]
+Distance: 20 mins drive to Tarkarli Beach & Malvan Market.
+Recommendation (Positive): Visit Bhogwe Beach and Nivti Beach for peace/cleanliness.
+Recommendation (Negative): Avoid Tarkarli and Devbaug beaches (Overcrowded/Touristy).
+Activities: Scuba diving in Malvan (book in advance).
+
+[SALES_HOOKS]
+USP 1: Experience a real Konkan village lifestyle, not just a hotel room.
+USP 2: Work-from-farm ready (Wi-Fi + Silence).
+USP 3: 100% privacy compared to crowded hotels.
